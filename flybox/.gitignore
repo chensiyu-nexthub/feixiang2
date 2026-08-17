@@ -1,0 +1,31 @@
+# ---- IDE / VisualGDB 产物 ----
+.vs/
+.visualgdb/
+*.vsidx
+*.lck
+
+# ---- 构建输出 ----
+VisualGDB/
+TraceReports/
+*.o
+*.d
+*.dep
+*.elf
+*.bin
+*.hex
+*.map
+*.dwarfcache
+*.alldeps
+*.progstat
+*.rsp
+
+# ---- 用户本地配置 ----
+*.vcxproj.user
+*.vgdbsettings
+*.vgdbsettings.*.user
+*.pdf
+XV7001BB_AE_Ver100.md
+
+# ---- 系统文件 ----
+Thumbs.db
+Desktop.ini
