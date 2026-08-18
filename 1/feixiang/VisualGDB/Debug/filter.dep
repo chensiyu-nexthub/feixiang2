@@ -1,0 +1,4 @@
+VisualGDB/Debug/filter.o: filter.c filter.h \
+ C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stddef.h
+filter.h:
+C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stddef.h:

@@ -1,9 +1,9 @@
 /**
   ******************************************************************************
   * @file    can.h
-  * @brief   CAN1 驱动接口，波特率 1Mbps
-  *          引脚: PA11(RX) / PA12(TX)
-  *          支持 正常模式 / 回环模式(loopback) 切换，接收走 FIFO0 中断
+  * @brief   CAN 总线驱动接口 (STM32F103 CAN1, 1Mbps)
+  *
+  *          依赖: STM32F1xx HAL
   ******************************************************************************
   */
 
@@ -16,53 +16,50 @@ extern "C" {
 
 #include <stm32f1xx_hal.h>
 
-/* CAN 帧数据结构(接收/发送通用) -------------------------------------------*/
+/* ======================== 接收帧结构 ======================== */
 typedef struct
 {
-    uint32_t StdId;      /* 标准帧 ID */
-    uint8_t  DLC;        /* 数据长度 0~8 */
-    uint8_t  Data[8];    /* 数据 */
-    uint8_t  NewFlag;    /* 1 = 收到新帧(供轮询/watch 查看)，读取后应清 0 */
-} CAN_Frame_t;
+    uint32_t stdId;
+    uint8_t  dlc;
+    uint8_t  data[8];
+    uint8_t  newFlag;   /* 1 = 新帧可用, 由中断置位, 任务消费后清零 */
+} CAN_RxFrame_t;
 
-/* 最近一次接收到的帧，供接收任务读取 / 调试 watch 查看 --------------------*/
-extern volatile CAN_Frame_t g_can_rx_frame;
+/* 全局接收帧 (中断写入, 任务读取) */
+extern volatile CAN_RxFrame_t g_can_rx_frame;
 
-/* 默认发送帧参数 -----------------------------------------------------------*/
-#define CAN_TX_STD_ID       0x123U
+/* ======================== 接口函数 ======================== */
 
 /**
-  * @brief  初始化 CAN1(波特率 1Mbps)并启动，使能 FIFO0 接收中断
-  * @param  mode 工作模式:
-  *              CAN_MODE_NORMAL          正常模式(接 USB-CAN 工具)
-  *              CAN_MODE_LOOPBACK        回环模式(无需收发器，自收自发验证)
-  *              CAN_MODE_SILENT          静默
-  *              CAN_MODE_SILENT_LOOPBACK 静默回环
+  * @brief  初始化 CAN1: 1Mbps, FIFO0 接收中断, 过滤器全通
+  * @param  mode  CAN_MODE_NORMAL 或 CAN_MODE_LOOPBACK
   * @retval HAL_OK 成功
   */
-HAL_StatusTypeDef CAN_Init(uint32_t mode);
+HAL_StatusTypeDef CAN_Init(uint8_t mode);
 
 /**
-  * @brief  发送一个标准数据帧
-  * @param  stdId 标准帧 ID
-  * @param  pData 数据指针
-  * @param  len   数据长度 0~8
-  * @retval HAL_OK 已放入发送邮箱
+  * @brief  发送一个标准数据帧 (阻塞, 等待邮箱空闲)
+  * @param  stdId  标准帧 ID (11bit)
+  * @param  pData  数据指针 (可为 NULL 当 len=0)
+  * @param  len    数据长度 (0~8)
+  * @retval HAL_OK 成功, HAL_BUSY 邮箱满, HAL_ERROR 参数错误
   */
 HAL_StatusTypeDef CAN_SendFrame(uint32_t stdId, const uint8_t *pData, uint8_t len);
 
 /**
-  * @brief  发送单个字节(ID 使用 CAN_TX_STD_ID)，用于 0xAA 测试
-  * @param  data 要发送的字节
-  * @retval HAL_OK 成功
+  * @brief  从全局接收帧取出数据 (任务上下文调用)
+  * @param  pFrame  输出缓冲区
+  * @retval 1 = 有新帧, 0 = 无新帧
   */
-HAL_StatusTypeDef CAN_SendByte(uint8_t data);
+uint8_t CAN_GetRxFrame(CAN_RxFrame_t *pFrame);
 
 /**
-  * @brief  收到新帧时的用户回调(在中断上下文调用，__weak 默认空实现)
-  *         应用层可重写此函数，用于从 ISR 释放信号量唤醒接收任务
+  * @brief  CAN 收到新帧回调 (__weak, 中断上下文, 应用层可重写)
+  *         默认空实现, 应用层重写此函数 (如释放信号量唤醒接收任务)
+  * @param  stdId  帧 ID
+  * @param  pData  帧数据 (8 字节)
   */
-void CAN_OnFrameReceived(void);
+void CAN_OnFrameReceived(uint32_t stdId, const uint8_t *pData);
 
 #ifdef __cplusplus
 }

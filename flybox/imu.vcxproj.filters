@@ -42,9 +42,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="imu.c">
-      <Filter>Source files</Filter>
-    </ClCompile>
     <ClCompile Include="imu_core.c">
       <Filter>Source files</Filter>
     </ClCompile>
@@ -678,5 +675,11 @@
     <None Include="stm32.xml">
       <Filter>VisualGDB settings</Filter>
     </None>
+    <ClCompile Include="main.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="config.c">
+      <Filter>Source files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

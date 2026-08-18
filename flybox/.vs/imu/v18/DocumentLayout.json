@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ChenSiYu\\yingyong\\Git\\HardwareBoot\\feixiang3\\flybox\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|C:\\Users\\ChenSiYu\\yingyong\\Git\\HardwareBoot\\feixiang3\\flybox\\imu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|solutionrelative:imu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ChenSiYu\\yingyong\\Git\\HardwareBoot\\feixiang3\\flybox\\imu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|C:\\Users\\ChenSiYu\\yingyong\\Git\\HardwareBoot\\feixiang3\\flybox\\flybox_action.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "imu.c",
               "ToolTip": "C:\\Users\\ChenSiYu\\yingyong\\Git\\HardwareBoot\\feixiang3\\flybox\\imu.c",
               "RelativeToolTip": "imu.c",
-              "ViewState": "AgIAALACAAAAAAAAAAAwwLwCAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAALECAAAAAAAAAAAAALwCAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-08-17T08:36:37.838Z",
               "EditorCaption": ""

@@ -1,10 +1,7 @@
 /**
   ******************************************************************************
   * @file    filter.c
-  * @brief   一阶 IIR 低通滤波器实现
-  *
-  *         公式: y[n] = α × x[n] + (1-α) × y[n-1]
-  *         α = dt / (RC + dt),  RC = 1 / (2π × fc)
+  * @brief   数字滤波器实现 (一阶 IIR 低通 + 5 点中值)
   ******************************************************************************
   */
 
@@ -15,9 +12,8 @@
 #define M_PI 3.14159265358979323846f
 #endif
 
-/**
-  * @brief  初始化 IIR 滤波器
-  */
+/* ======================== 一阶 IIR 低通滤波器 ======================== */
+
 void IIR_Filter_Init(IIR_Filter_t *pFilter, float fc, float fs)
 {
     if (pFilter == NULL) return;
@@ -28,9 +24,6 @@ void IIR_Filter_Init(IIR_Filter_t *pFilter, float fc, float fs)
     pFilter->y_prev = 0.0f;
 }
 
-/**
-  * @brief  IIR 滤波更新
-  */
 float IIR_Filter_Update(IIR_Filter_t *pFilter, float x)
 {
     if (pFilter == NULL) return x;
@@ -39,9 +32,6 @@ float IIR_Filter_Update(IIR_Filter_t *pFilter, float x)
     return pFilter->y_prev;
 }
 
-/**
-  * @brief  重置滤波器状态
-  */
 void IIR_Filter_Reset(IIR_Filter_t *pFilter)
 {
     if (pFilter != NULL)
@@ -50,34 +40,28 @@ void IIR_Filter_Reset(IIR_Filter_t *pFilter)
     }
 }
 
-/* ======================== 中值滤波器 ======================== */
+/* ======================== 5 点中值滤波器 ======================== */
 
-/**
-  * @brief  初始化中值滤波器
-  */
 void Median_Filter_Init(Median_Filter_t *pFilter)
 {
     if (pFilter == NULL) return;
 
-    pFilter->buf[0] = 0.0f;
-    pFilter->buf[1] = 0.0f;
-    pFilter->buf[2] = 0.0f;
-    pFilter->buf[3] = 0.0f;
-    pFilter->buf[4] = 0.0f;
-    pFilter->idx    = 0;
+    for (int i = 0; i < 5; i++)
+    {
+        pFilter->buf[i] = 0.0f;
+    }
+    pFilter->idx = 0;
 }
 
-/**
-  * @brief  中值滤波更新 (5点窗口，消除脉冲尖峰)
-  */
 float Median_Filter_Update(Median_Filter_t *pFilter, float val)
 {
     if (pFilter == NULL) return val;
 
+    /* 写入窗口 */
     pFilter->buf[pFilter->idx] = val;
     pFilter->idx = (pFilter->idx + 1) % 5;
 
-    /* 复制并排序取中值 (冒泡排序，5个元素) */
+    /* 复制并排序, 取中值 (冒泡, 5 个元素) */
     float tmp[5];
     for (int i = 0; i < 5; i++) tmp[i] = pFilter->buf[i];
     for (int i = 0; i < 4; i++)
@@ -92,12 +76,9 @@ float Median_Filter_Update(Median_Filter_t *pFilter, float val)
             }
         }
     }
-    return tmp[2];  /* 中值 (第3个) */
+    return tmp[2];  /* 中值 */
 }
 
-/**
-  * @brief  重置中值滤波器状态
-  */
 void Median_Filter_Reset(Median_Filter_t *pFilter)
 {
     if (pFilter != NULL)
