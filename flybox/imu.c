@@ -751,6 +751,7 @@ static void Task_FlyBox(void const *argument)
 		osDelay(500);
 	}
 #endif
+#endif
 }
 
 

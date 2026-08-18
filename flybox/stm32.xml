@@ -3,8 +3,8 @@
   <ToolchainID>com.visualgdb.arm-eabi</ToolchainID>
   <ToolchainVersion>
     <GCC>15.2.1</GCC>
-    <GDB>15.2</GDB>
-    <Revision>1</Revision>
+    <GDB>17.2</GDB>
+    <Revision>2</Revision>
   </ToolchainVersion>
   <BspID>com.sysprogs.arm.stm32</BspID>
   <BspVersion>2020.01</BspVersion>
