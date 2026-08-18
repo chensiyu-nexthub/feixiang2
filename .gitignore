@@ -1,0 +1,5 @@
+
+*.vgdbtrace
+flybox/VisualGDB/Debug
+flybox/.visualgdb/CodeDB
+flybox/.visualgdb/CodeExplorer

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\flybox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|D:\\project\\flybox\\imu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|solutionrelative:imu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|D:\\project\\flybox\\flybox_action.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AED60497-99DD-63A9-3DC5-4F5AF783394A}|imu.vcxproj|solutionrelative:flybox_action.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "flybox_action.c",
+              "DocumentMoniker": "D:\\project\\flybox\\flybox_action.c",
+              "RelativeDocumentMoniker": "flybox_action.c",
+              "ToolTip": "D:\\project\\flybox\\flybox_action.c",
+              "RelativeToolTip": "flybox_action.c",
+              "ViewState": "AgIAABwAAAAAAAAAAAAEwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-30T07:23:14.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imu.c",
+              "DocumentMoniker": "D:\\project\\flybox\\imu.c",
+              "RelativeDocumentMoniker": "imu.c",
+              "ToolTip": "D:\\project\\flybox\\imu.c",
+              "RelativeToolTip": "imu.c",
+              "ViewState": "AgIAAK4CAAAAAAAAAAAAALwCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-07-08T06:26:40.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
