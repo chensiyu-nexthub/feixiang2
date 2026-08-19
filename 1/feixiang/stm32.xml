@@ -6,8 +6,8 @@
     <GDB>17.2</GDB>
     <Revision>2</Revision>
   </ToolchainVersion>
-  <BspID>com.sysprogs.arm.stm32f1</BspID>
-  <BspVersion>1.8.0</BspVersion>
+  <BspID>com.sysprogs.arm.stm32</BspID>
+  <BspVersion>2020.01</BspVersion>
   <McuID>STM32F103C8</McuID>
   <MCUDefinitionFile>STM32F1xxxx/DeviceDefinitions/stm32f103xb.xml</MCUDefinitionFile>
   <MCUProperties>

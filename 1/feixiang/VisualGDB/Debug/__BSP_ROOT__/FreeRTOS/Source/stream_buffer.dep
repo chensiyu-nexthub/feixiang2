@@ -1,5 +1,5 @@
 VisualGDB/Debug/__BSP_ROOT__/FreeRTOS/Source/stream_buffer.o: \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/stream_buffer.c \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/stream_buffer.c \
  C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdint.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/stdint.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/machine/_default_types.h \
@@ -22,16 +22,16 @@ VisualGDB/Debug/__BSP_ROOT__/FreeRTOS/Source/stream_buffer.o: \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/_locale.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/strings.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/string.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/FreeRTOS.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/FreeRTOS.h \
  C:/Users/ChenSiYu/yingyong/Git/HardwareBoot/feixiang3/1/feixiang/FreeRTOSConfig.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/projdefs.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/portable.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/deprecated_definitions.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Portable/gcc/ARM_CM3/portmacro.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/mpu_wrappers.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/task.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/list.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/stream_buffer.h
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/projdefs.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/portable.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/deprecated_definitions.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Portable/gcc/ARM_CM3/portmacro.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/mpu_wrappers.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/task.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/list.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/stream_buffer.h
 C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdint.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/stdint.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/machine/_default_types.h:
@@ -54,13 +54,13 @@ C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/lock.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/_locale.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/strings.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/string.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/FreeRTOS.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/FreeRTOS.h:
 C:/Users/ChenSiYu/yingyong/Git/HardwareBoot/feixiang3/1/feixiang/FreeRTOSConfig.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/projdefs.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/portable.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/deprecated_definitions.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Portable/gcc/ARM_CM3/portmacro.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/mpu_wrappers.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/task.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/list.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/FreeRTOS/Source/Include/stream_buffer.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/projdefs.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/portable.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/deprecated_definitions.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Portable/gcc/ARM_CM3/portmacro.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/mpu_wrappers.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/task.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/list.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/FreeRTOS/Source/Include/stream_buffer.h:

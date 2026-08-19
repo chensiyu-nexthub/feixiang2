@@ -13,8 +13,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <ProjectGuid>{836C35CC-8D45-519E-AE4A-33E8D3B63868}</ProjectGuid>
-    <BSP_ID>com.sysprogs.arm.stm32f1</BSP_ID>
-    <BSP_VERSION>1.8.0</BSP_VERSION>
+    <BSP_ID>com.sysprogs.arm.stm32</BSP_ID>
+    <BSP_VERSION>2020.01</BSP_VERSION>
     <InPlaceBSPSubdir />
     <RelativeBSPPath />
   </PropertyGroup>

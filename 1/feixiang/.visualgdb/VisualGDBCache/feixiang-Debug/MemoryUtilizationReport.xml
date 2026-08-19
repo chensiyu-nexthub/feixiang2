@@ -3,23 +3,13 @@
   <Memories>
     <MemoryUtilization>
       <MemoryName>FLASH</MemoryName>
-      <Used>37532</Used>
+      <Used>37740</Used>
       <Total>65536</Total>
     </MemoryUtilization>
     <MemoryUtilization>
       <MemoryName>SRAM</MemoryName>
-      <Used>16612</Used>
+      <Used>16604</Used>
       <Total>20480</Total>
-    </MemoryUtilization>
-    <MemoryUtilization>
-      <MemoryName>XSPI1</MemoryName>
-      <Used>0</Used>
-      <Total>134217728</Total>
-    </MemoryUtilization>
-    <MemoryUtilization>
-      <MemoryName>XSPI2</MemoryName>
-      <Used>0</Used>
-      <Total>134217728</Total>
     </MemoryUtilization>
   </Memories>
 </MemoryUtilizationReport>

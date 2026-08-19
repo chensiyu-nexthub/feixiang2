@@ -1,12 +1,12 @@
 VisualGDB/Debug/__BSP_ROOT__/STM32F1xxxx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o: \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
  C:/Users/ChenSiYu/yingyong/Git/HardwareBoot/feixiang3/1/feixiang/stm32f1xx_hal_conf.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f1xx.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f103xb.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/core_cm3.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f103xb.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/core_cm3.h \
  C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdint.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/stdint.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/machine/_default_types.h \
@@ -14,59 +14,59 @@ VisualGDB/Debug/__BSP_ROOT__/STM32F1xxxx/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_
  C:/SysGCC/arm-eabi/arm-none-eabi/include/_newlib_version.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/_intsup.h \
  C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/_stdint.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_version.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_compiler.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_gcc.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_version.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_compiler.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_gcc.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
  C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stddef.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_eth.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cec.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_crc.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dac.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sram.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nor.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2s.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_iwdg.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pccard.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sd.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nand.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_usart.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_irda.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_smartcard.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_wwdg.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
- C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_mmc.h
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_eth.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cec.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_crc.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dac.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sram.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nor.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2s.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_iwdg.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pccard.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sd.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nand.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_usart.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_irda.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_smartcard.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_wwdg.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h \
+ C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_mmc.h
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
 C:/Users/ChenSiYu/yingyong/Git/HardwareBoot/feixiang3/1/feixiang/stm32f1xx_hal_conf.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f1xx.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f103xb.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/core_cm3.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f1xx.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/stm32f103xb.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/core_cm3.h:
 C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdint.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/stdint.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/machine/_default_types.h:
@@ -74,49 +74,49 @@ C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/features.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/_newlib_version.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/_intsup.h:
 C:/SysGCC/arm-eabi/arm-none-eabi/include/sys/_stdint.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_version.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_compiler.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_gcc.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/system_stm32f1xx.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_version.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_compiler.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Core/Include/cmsis_gcc.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/CMSIS_HAL/Device/ST/STM32F1xx/Include/system_stm32f1xx.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
 C:/SysGCC/arm-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stddef.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_eth.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cec.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_crc.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dac.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sram.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nor.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2s.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_iwdg.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pccard.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sd.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nand.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_usart.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_irda.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_smartcard.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_wwdg.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h:
-C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32f1/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_mmc.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_eth.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_can.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cec.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_crc.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dac.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sram.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nor.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2s.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_iwdg.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pccard.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_sd.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_nand.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_usart.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_irda.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_smartcard.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_wwdg.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_hcd.h:
+C:/Users/ChenSiYu/AppData/Local/VisualGDB/EmbeddedBSPs/arm-eabi/com.sysprogs.arm.stm32/2020.01/STM32F1xxxx/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_mmc.h:
